@@ -1,0 +1,13 @@
+
+.bu{
+   
+    background-color: #c3073f ;
+    border: none;
+  
+  border-radius: 5px;
+  padding: 10px;
+  outline: none;
+}
+.bu:hover{
+  background-color:#950740;
+}

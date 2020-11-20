@@ -1,0 +1,18 @@
+.mid1{
+
+    
+flex:0.5;
+height: 85vh;
+min-height: 500px;
+display: flex;
+overflow:hidden;
+justify-content: center;
+align-items: center;
+
+background-color: white;;
+border-right: 1px solid #bdc5cb;
+position: relative;
+
+
+
+}

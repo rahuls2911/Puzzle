@@ -1,0 +1,12 @@
+.mid2{
+
+    min-height: 500px;
+display: flex;
+max-height: 85vh;
+justify-content: center;
+align-items: center;
+color:#a5b0ba;
+flex:0.5;min-width: 49vw;
+background-color: white;
+}
+

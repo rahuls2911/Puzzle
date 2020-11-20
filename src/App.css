@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+
+  margin:0;
+  padding:0;
+  
+  --twitterblue:#1DA1F2;
+  --twittergrey:#F5F8FA;
+  --twitterdarkgrey:grey;
+height:100vh;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+}
+.app{
+  min-height:100vh;
+display: flex;
+flex-direction: column;
+}

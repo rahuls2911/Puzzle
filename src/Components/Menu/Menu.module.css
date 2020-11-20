@@ -1,0 +1,59 @@
+
+.container{
+   
+   display: flex;
+   top:0;
+   flex-direction: row;
+   justify-content: space-between;
+  align-items: center;
+ border-bottom: 1px solid black;
+  
+   min-height: 70px;
+   left: 0;
+   right: 0;
+   height: 10vh;
+   background-color: #c3073f;
+     padding-left: 50px;
+    padding-right:50px;
+
+}
+.asd{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+.butt{
+    display: flex;
+    
+
+
+
+}
+
+
+.buttn{
+color:white !important;
+border-radius: 20px !important;
+border-color:#4e4e50 !important;
+   
+margin-right: 15px !important;
+outline:none !important;
+box-shadow: none !important;
+
+}
+.lo{
+    display: flex;
+    position: relative;
+   
+
+    
+}
+
+
+@media screen and (max-width: 600px) {
+    .container{
+        padding-right:30px;
+        padding-left:30px;
+    }
+  }
